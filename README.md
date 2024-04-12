@@ -1,4 +1,4 @@
-# gen711 project
+# gen711 Project
 
 ## BACKGROUND
 
